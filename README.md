@@ -253,7 +253,7 @@ This lab was conducted entirely on a **personally owned and isolated home lab en
 
 ## 👩‍💻 Author
 
-**Ayesha** | Cybersecurity Practitioner | CCNA | CCNP | CEH
+**Ayesha** |Information Security Analyst | CCNA | CCNP | CEH
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-9aba30404/)
 [![GitHub](https://img.shields.io/badge/GitHub-aishamjad33--ux-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aishamjad33-ux)
